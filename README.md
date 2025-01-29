@@ -8,12 +8,6 @@ Welcome to Alpha Resources - Your hub for learning materials and development res
 ## About
 This repository contains curated resources for various technologies and learning paths. Explore the collection and enhance your skills!
 
-## Website Features
-- Clean and responsive interface
-- Easy navigation
-- Quick access to resources
-- GitHub integration
-
 ## How to Use
 1. Visit the [website](https://ashstartempest.github.io/Alpha-resources/)
 2. Explore the resources
